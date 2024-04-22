@@ -11,15 +11,11 @@ const Footer = () => {
   return (
     <div className="max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-400 ">
       <div>
-        <h1 className="w-full text-3xl font-bold text-[#00df9a]">REACT.</h1>
+        <h1 className="w-full text-3xl font-bold text-[#00df9a]">Success Catalyst</h1>
         <p className="py-2">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestiae
-          dicta ex, a unde quia quos distinctio nostrum earum, aliquid officiis
-          architecto dolorem. Maiores molestiae veritatis temporibus. Tenetur id
-          laboriosam facere!
+        We look forward to partnering with you. Visit us soon and let's achieve your business goals together!
         </p>
         <div className="flex justify-between md:w-[75%] my-6">
-          <FaDribbbleSquare size={30} />
           <FaFacebookSquare size={30} />
           <FaGithubSquare size={30} />
           <FaLinkedin size={30} />

@@ -8,12 +8,12 @@ const Analytics = () => {
         <img className='w-[500px] mx-auto my-4' src={Laptop} alt="Laptop pic" />
         <div className='flex flex-col justify-center'>
           <p className='text-[#00df9a] font-bold'>DATA ANALYTICS DASHBOARD</p>
-          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Manage Data Anaytics Centrally</h1>
+          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2 sm:text-nowrap'>Drive Your Marketing Strategy with Precision</h1>
           <p className=''>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus quisquam excepturi, natus modi quis iusto distinctio recusandae voluptatibus.
+          Our expert data analysis at Success Catalyst is the key to a successful marketing strategy. We turn complex market data into clear insights, allowing you to make informed decisions. With our precision-driven approach, your campaigns are optimized for maximum impact. Harness the power of data and achieve your marketing objectives with us.
           </p>
-          <button className='bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a] border'>
-            Get Started
+          <button className='bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a] border hover:bg-[#00df9a] hover:text-black'>
+            Launching Soon!
             </button>
         </div>
       </div>
